@@ -1,4 +1,4 @@
-# YFII: An innovative DeFi farm field
+# GRMS: An innovative DeFi farm field
 
 by YFII Global Community
 
