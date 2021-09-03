@@ -1,3 +1,4 @@
-- :uk:|:cn: 
+- :uk:|:cn:|:ru: 
   - [English](/)
   - [中文](/zh-cn/)
+  - [Russian](/ru/)
